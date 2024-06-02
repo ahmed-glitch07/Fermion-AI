@@ -251,5 +251,7 @@
         justify-content: center;
         margin-left: 65px;
 
+    }.main-bottom{
+        padding: 39px 11px;
     }
 }

@@ -67,7 +67,7 @@
 
 @media (max-width:600px) {
     .sidebar{
-        display: felx;
+        position: sticky;
         height: 100vh;
     }
     #proc{
