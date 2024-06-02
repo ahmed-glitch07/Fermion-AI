@@ -73,6 +73,9 @@
     #proc{
         display: none;
     }
+    .sidebar .bottom{
+        margin-bottom: 44px;
+    }
     
     
 }
